@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: aqua;
+}
+.articulo {
+  width: 250px;
+  padding: 10px;
+  background: lightgray;
+}
